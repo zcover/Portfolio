@@ -1,3 +1,11 @@
+# Portfolio
+___
+## Task 1- Refactor CSS <br>
+expected time: 45 minutes
+Start time: 0958
+End time:
+Actual time it took:
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
