@@ -1,3 +1,19 @@
+/*
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+# Tasks
+___
+## task 1, SMACCS the code
+expected time: 45 minutes
+start time: 0958
+end time: 1143
+actual time it took:~2 hours
+___
+
+
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
