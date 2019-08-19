@@ -1,3 +1,5 @@
+
+
 input, textarea, select {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 19pt;
@@ -251,7 +253,7 @@ br.clear {
     display: none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 736px) {
 
     /* Basic */
 
