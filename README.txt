@@ -11,7 +11,19 @@ start time: 0958
 end time: 1143
 actual time it took:~2 hours
 ___
+## task 2: 
 
+
+
+
+
+## Lab-05a
+Task: Add functionality
+(attatch cdn's and remove javascript files wherever possible):
+Expected time: 30 minutes;
+start time: 0930
+end time:
+actual time it took:
 
 
 Prologue by HTML5 UP
