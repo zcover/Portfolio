@@ -288,3 +288,8 @@ button,
     .icon > .label {
         display: none;
     }
+
+/* header */
+#bananaHeader {
+    font-size:initial;
+}

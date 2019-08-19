@@ -213,10 +213,10 @@
             background-position: center center;
         }
 
-        #main > section.one {
+        /* #main > section.one {
             background-color: #81918E;
             background-image: url("../../images/banner.jpg");
-        }
+        } */
 
         #main > section.two {
             background-color: #f5fafa;
@@ -229,13 +229,3 @@
         #main > section.four {
             background-color: #e8edec;
         }
-
-
-
-
-
-
-
-
-
-        
